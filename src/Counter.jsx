@@ -28,7 +28,7 @@ function Counter() {
                     </div>
 
                     <div className="description">
-                        <p>Backend Developer Intern </p>
+                        <p>Backend Engineer Intern </p>
                        
                     </div>
 
